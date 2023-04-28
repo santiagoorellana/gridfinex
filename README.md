@@ -11,6 +11,7 @@ Antes de ejecutar los comandos, el prompt de la consola debe estar en el mismo d
 Luego debe ejecutar los comandos:
 
 npm install ccxt
+
 npm i chalk@4.1.2
 
 Luego desde ese mismo directorio, puede ejecutar el script del GridBot mediante el comando:
