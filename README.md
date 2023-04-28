@@ -21,4 +21,5 @@ node bitfinex_grid.js
 También puede ejecutar el script haciendo doble clic sobre el fichero run.bat
 
 author: Santiago A. Orellana Perez
+
 email: tecnochago@gmail.com
