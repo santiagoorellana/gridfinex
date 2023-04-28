@@ -1,0 +1,9 @@
+{
+    "baseCurrency": "BTCF0",
+    "quoteCurrency": "USTF0",
+    "centralPrice": 29000,
+    "amountAsQuote": 2,
+    "upperLevelsCount": 20,
+    "downLevelsCount": 20,
+    "interLevelsDelta": 200
+}
